@@ -1,4 +1,4 @@
-# HairDo - Production-Ready WhatsApp Chatbot Backend
+# Production-Ready WhatsApp Chatbot Backend
 
 A minimal, production-ready WhatsApp chatbot backend for small businesses built with **Node.js (ESM)**, **Express**, **SQLite (better-sqlite3)**, and **OpenAI**. It interfaces directly with Meta's official WhatsApp Cloud API.
 
